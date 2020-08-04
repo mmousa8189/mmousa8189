@@ -43,7 +43,7 @@ care - Aviation - Booking & Traveling - Metering management (Electricity & Water
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio.svg">
       </td>
        <td width="25%" align="center">
-        <span>eclipse.svg</span><br><br><br>
+        <span>eclipse</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/eclipse.svg">
       </td>
       <td width="25%" align="center">
